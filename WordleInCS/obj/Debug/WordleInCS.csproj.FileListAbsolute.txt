@@ -1,0 +1,8 @@
+C:\Users\Shaun\source\repos\WordleInCS\WordleInCS\bin\Debug\WordleInCS.exe.config
+C:\Users\Shaun\source\repos\WordleInCS\WordleInCS\bin\Debug\WordleInCS.exe
+C:\Users\Shaun\source\repos\WordleInCS\WordleInCS\bin\Debug\WordleInCS.pdb
+C:\Users\Shaun\source\repos\WordleInCS\WordleInCS\obj\Debug\WordleInCS.csproj.AssemblyReference.cache
+C:\Users\Shaun\source\repos\WordleInCS\WordleInCS\obj\Debug\WordleInCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaun\source\repos\WordleInCS\WordleInCS\obj\Debug\WordleInCS.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\source\repos\WordleInCS\WordleInCS\obj\Debug\WordleInCS.exe
+C:\Users\Shaun\source\repos\WordleInCS\WordleInCS\obj\Debug\WordleInCS.pdb
